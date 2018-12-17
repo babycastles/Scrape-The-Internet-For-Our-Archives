@@ -1,0 +1,2 @@
+# Scrape-The-Internet-For-Our-Archives
+Since 2010, Babycastles has been great at hosting events and bad at documenting them. It's really hard for artists to do both create and document at the same time. Unfortunately, when its time to describe what we do, it's very hard to do that without pictures and videos! I'm documenting the tools and process I use to scrape social media sites to help capture the photos / videos people have taken and shared 'publicly' at our space.
