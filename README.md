@@ -1,4 +1,4 @@
-# Scrape-The-Internet-For-Our-Archives
+# Scrape the web because we're bad at documentation :)
 Since 2010, Babycastles has been great at hosting events and bad at documenting them. When we describe what we do, it's hard to do that without pictures and videos! 
 
 I'm documenting the tools and process I use to scrape social media sites to help capture the photos & videos people have taken and shared at our space. I'm writing these using a Mac, if it's different for a PC/Linux - sorry.
