@@ -11,7 +11,7 @@ This will save the videos & photos and save the filename with the date it was po
 3. Download all Babycastles posts tagged (both with and '@' and a '#') & posted to our account using this command:
 `instaloader --login=babycastles babycastles '#babycastles' --filename-pattern={date_utc}_UTC_{profile} --tagged --comments`
 4. Download all posts with the hashtag #babycastles using:
-`instaloader --login=babycastles “#babycastles” —filename-pattern={date_utc}_UTC_{profile}`
+`instaloader --login=babycastles "#babycastles" --filename-pattern={date_utc}_UTC_{profile}`
 5. And anything posted to our location_id (271251592)
 *this doesn’t seem to work yet but it was [just released](https://github.com/instaloader/instaloader/pull/212) 5 hours before I tried it so maybe it still has some bugs to work out*
-`instaloader  %271251592 —filename-pattern={date_utc}_UTC_{profile}`
+`instaloader --login=babycastles "%271251592" --filename-pattern={date_utc}_UTC_{profile}`
