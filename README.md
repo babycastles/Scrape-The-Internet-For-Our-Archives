@@ -4,6 +4,8 @@ Since 2010, [Babycastles](http://babycastles.com) has been throwing great events
 
 I'm writing these using a Mac, if it's different for a PC/Linux - sorry. Hope this helps other people too.
 
+Also, we're a 9 year old 501c3 non-profit run by volunteers. If you like what we do, including this, please consider making a [tax-deductable donation](https://www.guidestar.org/profile/81-3155264) so we can keep doing it!
+
 ## Downloading from Instagram
 This will save the videos & photos and save the filename with the date it was posted to instagram & the username who posted it. the files look like this "2012-10-10_02-09-30_UTC_babycastles.jpg"
 
