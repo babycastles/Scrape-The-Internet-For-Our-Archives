@@ -1,6 +1,6 @@
 # Scrape the web because you're bad at documentation :)
 
-Since 2010, Babycastles has been throwing great at events and doing a bad job documenting them. It's hard to describe what we do without photos and videos so I'm documenting the tools and process I use to scrape social media sites for photos of our events. 
+Since 2010, [Babycastles](http://babycastles.com) has been throwing great events and doing a bad job documenting them. It's hard to describe what we do without photos and videos so I'm documenting the tools and process I use to scrape social media sites for photos of our events. 
 
 I'm writing these using a Mac, if it's different for a PC/Linux - sorry. Hope this helps other people too.
 
