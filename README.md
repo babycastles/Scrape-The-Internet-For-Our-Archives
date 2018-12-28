@@ -20,5 +20,8 @@ This will save the videos & photos and save the filename with the date it was po
 `instaloader --login=babycastles "%271251592" --filename-pattern={date_utc}_UTC_{profile}`
 6. After you download everything once, you can just append `--fast-update` and it will only download the latest posts since the last time you ran the query
 
+## Export events on Google Calendar to Google Sheets
+This will work with both calendars you have admin access to and ones you just follow. Instructions are [here](https://www.cloudbakers.com/blog/how-to-export-a-shared-calendar-to-a-google-spreadsheet).
+
 ## Downloading from YouTube
 1. Install [youtube-dl](https://rg3.github.io/youtube-dl/) `sudo pip install --upgrade youtube_dl`
