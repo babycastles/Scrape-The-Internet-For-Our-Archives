@@ -12,7 +12,7 @@ This will save the videos & photos and save the filename with the date it was po
 1. Uning Terminal, install [pip](https://pip.pypa.io/en/stable/installing/), if its not on your machine
 2. Install [Instaloader](https://instaloader.github.io/) using pip `pip install instaloader`
 3. Download all Babycastles posts tagged (both with and '@' and a '#') & posted to our account using this command:
-`instaloader --login=babycastles babycastles '#babycastles' --filename-pattern={date_utc}_UTC_{profile} --tagged --comments`
+`instaloader --login=babycastles babycastles '#babycastles' --filename-pattern={date_utc}_UTC_{profile} --stories --tagged --comments`
 4. Download all posts with the hashtag #babycastles using:
 `instaloader --login=babycastles "#babycastles" --filename-pattern={date_utc}_UTC_{profile}`
 5. And anything posted to our location_id (271251592)
